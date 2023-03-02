@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ffmpeg-generate-video-preview": "^1.0.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "gtts": "^0.2.1",
+    "say": "^0.16.0",
+    "simple-hls": "^0.0.1",
+    "simple-thumbnail": "^1.6.5"
+  }
+}
